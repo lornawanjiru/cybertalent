@@ -1,0 +1,7 @@
+So i went through the description, its like a small hint that directs you to the right path. 
+Not that it helped me much... But file <filename> made me realise its a bin file.. So i wanted to search for tools and means to go by this.....But before i go in depth with using tools decided lemme use strings... 
+strings <filename> which gave me the flag..
+
+FLag{Fat_32_DF_2}
+
+Thanks so much for reading.. Remember before going deeper check whats next to you.
