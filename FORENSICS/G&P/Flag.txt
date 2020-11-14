@@ -1,0 +1,7 @@
+I might have left out the screen shots on this but i used binwalk tool... Which helped me extract hidden information in the file. 
+
+binwalk <filename>
+
+Then in the xtracted folder  i saw a txt file named flag.txt which is was worth the check.. So i got the flag there.
+
+

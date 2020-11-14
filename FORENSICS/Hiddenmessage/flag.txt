@@ -1,0 +1,3 @@
+I stringed the file and thats how i got the flag.
+
+strings <filename>
