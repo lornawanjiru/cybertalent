@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Fri Nov 20 05:59:10 2020
+Invocation: foremost Youve_Been_Hacked.jpg.png 
+Output directory: /home/lorna/Documents/PORFOLIO/CTFS/cybertalent/FORENSICS/youvebeenhacked/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: Youve_Been_Hacked.jpg.png
+Start: Fri Nov 20 05:59:10 2020
+Length: 23 KB (24157 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.png 	      23 KB 	          0 	  (480 x 272)
+Finish: Fri Nov 20 05:59:10 2020
+
+1 FILES EXTRACTED
+	
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Fri Nov 20 05:59:10 2020
